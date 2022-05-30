@@ -1,1 +1,1 @@
-# PowerShellSetup
+# Terminal Stuffs
