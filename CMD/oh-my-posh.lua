@@ -1,0 +1,1 @@
+load(io.popen('oh-my-posh init cmd --config "C:/Users/bins4/AppData/Local/clink/clean-detailed.omp.json"'):read("*a"))()
